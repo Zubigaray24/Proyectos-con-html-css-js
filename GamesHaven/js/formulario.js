@@ -9,5 +9,5 @@ document.querySelector("#btn-inicio-sesion").addEventListener("click", function 
     setTimeout(function () {
         // Redirigir a la URL deseada
         window.location.href = "index.html";
-    }, 4000);
+    }, 1000);
 });

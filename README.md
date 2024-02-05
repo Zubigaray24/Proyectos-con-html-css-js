@@ -18,4 +18,4 @@ Segundo proyecto hecho con mi compañero @ggonza12 para la materia Interfaces de
 
 9-Link a app de adivinar el numero: https://zubigaray24.github.io/Proyectos-con-html-css-js/juego-adivinanza-con-js
 
-10-Link a app devalidacion de formularios usando la base de datos de FireBase: https://zubigaray24.github.io/Proyectos-con-html-css-js/validacion-formulario-js
+10-Link a app de validacion de formularios usando la base de datos de FireBase: https://zubigaray24.github.io/Proyectos-con-html-css-js/validacion-formulario-js
